@@ -58,4 +58,10 @@
 | <a href="https://github.com/jitendravarma11"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendravarma11&show_icons=true&include_all_commits=true&theme=swift&hide_border=true" alt=" 📊 Jitendra's GitHub Stats" /></a> | <a href="https://github.com/jitendravarma11"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitendravarma11&layout=compact&theme=swift&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+<br/>
+
+---
+
+<br /> 
+
 [![Linkedin Badge](https://img.shields.io/badge/-jitendravarma11-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jitendravarma11/)](https://www.linkedin.com/in/jitendravarma11) [![Instagram Badge](https://img.shields.io/badge/-@_jitendraverma_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/_jitendraverma_/)](https://www.instagram.com/_jitendraverma_/)
