@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jitendra Varma</h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&pause=800&center=true&vCenter=true&random=false&width=435&lines=Passionate+about+Full+Stack+Web+Development;
-Salesforce+Developer;Interested+in+Java+Development;Always+learning+new+things" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&pause=800&center=true&vCenter=true&random=false&width=435&lines=Passionate+about+Full+Stack+Web+Development;Salesforce+Developer;Interested+in+Java+Development;Always+learning+new+things" alt="Typing SVG" />
+  </a>
 </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
